@@ -8,4 +8,4 @@
 * ##### BinaryHeap (Kotlin) - [view code](https://gist.github.com/limnid/bfcf0e83a724a9e4c19586fa1f0878f9)
 * ##### Stack (Java) - [view code](https://gist.github.com/limnid/1dedf04e919a918c85b0f91d47f96c0b)
 * ##### Queue (Kotlin) - [view code](https://gist.github.com/limnid/a38f430d247dd327b721bd74d7a4c5fb)
-* ##### Sorting algorithms (Golang) - [view code](https://gist.github.com/limnid/87625d9ac650d01d75651163521497c1)
+* ##### Sorting algorithms (Golang) <a href="https://gist.github.com/limnid/87625d9ac650d01d75651163521497c1" target="_blank">view code</a>
